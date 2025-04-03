@@ -1,0 +1,50 @@
+#Tamaños y Escalas
+ANCHO_VENTANA=800
+ALTO_VENTANA=600
+#ALTO_PERSONAJE= 20
+#ANCHO_PERSONAJE= 20
+ESCALA_PERSONAJE = 0.25
+ESCALA_ARMA = 0.03
+ESCALA_BALA = 0.02
+ESCALA_ENEMIGOS = 0.25
+ESCALA_CORAZON = 0.13
+ESCALA_MONEDA = 0.08
+ESCALA_POCION =  0.13
+ESCALA_MAQUINA = 0.15
+ESCALA_PLUMA = 0.15
+ESCALA_MICROSCOPIO = 0.17
+ESCALA_ABACO = 0.2
+
+
+# Escenario
+TILE_SIZE = 28   #Tamaño de cada tile, entre mas pequeño, mas se ve del mapa 
+TILE_TYPE = 1407 #Cantidad de tiles +1
+FILAS = 30
+COLUMNAS = 70
+LIMITE_PANTALLA = 150 #Cada vez que el personaje llegue a esta cantidad de pixeles del borde de la pantalla, se movera
+
+#Colores
+COLOR_PERSONAJE = (255, 255, 0)
+COLOR_BG = (0, 0, 20)
+COLOR_FONDO_ESCENARIO = (10, 9, 13)
+
+
+COLOR_ARMA = (255, 0, 0)
+COLOR_ROJO_OSCURO = (139, 0, 0)
+COLOR_ROJO = (203, 50, 52)
+COLOR_AMARILLO = (255, 255, 0)
+COLOR_BLANCO = (255, 255, 255)
+COLOR_NEGRO = (0, 0, 0)
+COLOR_BOTON = (148, 148, 148)
+COLOR_MORADO = (62, 39, 97)
+
+#Otros
+FPS = 60
+VELOCIDAD = 5           #Velocidad del personaje 
+COOLDOWN_BALA = 200     #Tiempo entre posibilidad de disparo
+VELOCIDAD_BALA = 20 
+VELOCIDAD_ENEMIGO = 2.5
+RANGO = 300
+RANGO_ATAQUE = 20
+#Letra
+TAMAÑO_FUENTE = 25
