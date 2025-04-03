@@ -1,4 +1,5 @@
 Este repositorio contiene la solucion y evidencia del funcionamiento de los 30 ejercicios de POO
+
 #1-7
 ![image](https://github.com/user-attachments/assets/53609ab3-4af1-4227-94c1-bd65ab716402)
 #8
